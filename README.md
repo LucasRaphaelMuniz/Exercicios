@@ -24,7 +24,7 @@
 - Estrutura Repetivivas: C#
 - Estrutura Repetivivas: C++
 ### _Vetores_
-- Vetores: Pyhton
+- [Vetores: Pyhton](https://github.com/LucasRaphaelMuniz/Exercicios/tree/main/Python/Vetores)
 - Vetores: Java
 - Vetores: C
 - Vetores: C#
