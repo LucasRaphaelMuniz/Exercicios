@@ -30,7 +30,7 @@
 - Vetores: C#
 - Vetores: C++
 ### _Matrizes_
-- Matrizes: Pyhton
+- [Matrizes: Pyhton](https://github.com/LucasRaphaelMuniz/Exercicios/tree/main/Python/Matrizes)
 - Matrizes: Java
 - Matrizes: C
 - Matrizes: C#
